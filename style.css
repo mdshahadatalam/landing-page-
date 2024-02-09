@@ -15,3 +15,10 @@ font-family: 'Poppins', sans-serif;
 .hero-image{
     background-color:#f3f2ef;
 }
+.line{
+    height: 40px;
+    width: 4px;
+}
+.product-container{
+    height: 400px;
+}
