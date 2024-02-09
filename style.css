@@ -28,3 +28,9 @@ font-family: 'Poppins', sans-serif;
 .product-container img{
     height: 300px;
 }
+.offer-container{
+    background-image: url(offer.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 550px;
+}
