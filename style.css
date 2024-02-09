@@ -1,4 +1,17 @@
+*{
+    font-family: 'Montserrat', sans-serif;
+font-family: 'Poppins', sans-serif;
+}
+
 .logo{
     width: 10%;
     border-radius: 50%;
+}
+
+.hero-text{
+    max-width: 500px;
+    text-align: justify;
+}
+.hero-image{
+    background-color:#f3f2ef;
 }
