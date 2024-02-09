@@ -20,5 +20,11 @@ font-family: 'Poppins', sans-serif;
     width: 4px;
 }
 .product-container{
-    height: 400px;
+    box-shadow: 0 1px 1px 5px lightgray;
+}
+.product-container:hover{
+    box-shadow: 0 1px 1px 5px rgb(135, 129, 129);
+}
+.product-container img{
+    height: 300px;
 }
