@@ -1,6 +1,6 @@
 *{
     font-family: 'Montserrat', sans-serif;
-font-family: 'Poppins', sans-serif;
+    font-family: 'Poppins', sans-serif;
 }
 
 .logo{
@@ -33,4 +33,16 @@ font-family: 'Poppins', sans-serif;
     background-repeat: no-repeat;
     background-size: cover;
     height: 550px;
+}
+.futures{
+    height: 120px;
+    cursor: pointer;
+    box-shadow: 0 1px 1px 3px lightgray;
+    /* margin: 10px; */
+}
+.futures:hover{
+    box-shadow: 0 1px 1px 5px rgb(135, 129, 129);
+}
+.futures img{
+    height: 50px;
 }
