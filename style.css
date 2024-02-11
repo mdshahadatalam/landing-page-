@@ -12,7 +12,7 @@
     max-width: 500px;
     text-align: justify;
 }
-.hero-image{
+.hero-image ,.diffrent-section{
     background-color:#f3f2ef;
 }
 .line{
@@ -44,5 +44,5 @@
     box-shadow: 0 1px 1px 5px rgb(135, 129, 129);
 }
 .futures img{
-    height: 50px;
+    height: 70px;
 }
